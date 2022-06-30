@@ -1,17 +1,25 @@
 
 
-**GitHub**
 
 <p dir="rtl">
-<strong>تمرين</strong></p>
+<strong>تمرين</strong></p></br>
 
 
 
 <div dir="rtl">
-* حمل
-    * [Unity](https://unity3d.com/get-unity/download)
-    * [Visual Studio](https://visualstudio.microsoft.com/downloads/) 
-    * [Github Desktop](https://desktop.github.com/) 
+حمل
+</div>
+
+<div>
+   Github Desktop: https://desktop.github.com/ </br>
+   Unity:  https://unity3d.com/get-unity/download </br>
+   Visual Studio: https://visualstudio.microsoft.com/downloads/  </br>
+</div>
+ 
+
+</br> **GitHub** </br>
+<div dir="rtl">
+   
     
 * أنشئ نسخة من ال repo عن طريق fork
 * أنشئ ملف نصي .txt في مجلد ال repo الذي قمت بنسخه واكتب اسمك بالإضافة لهواياتك في الملف
